@@ -8,7 +8,7 @@ buckle_version: 2.15.0
 # renovate: datasource=github-releases depName=compute-blade-community/compute-blade-agent extractVersion=^v(?<version>.*)$
 compute_blade_agent_version: 0.11.5
 # renovate: datasource=github-releases depName=k3s-io/k3s
-k3s_version: v1.36.6+k3s1
+k3s_version: v1.37.2+k3s1
 # renovate: datasource=github-releases depName=grafana/alloy extractVersion=^v(?<version>.*)$
 alloy_version: 1.22.0
 # renovate: datasource=github-releases depName=cedi/rpi_exporter extractVersion=^v(?<version>.*)$
